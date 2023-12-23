@@ -1,6 +1,6 @@
 import streamlit as st
 from hugchat import hugchat
-from hughchat.login import Login
+from hugchat.login import Login
 
 st.set_page_config(page_title = "Generative AI Assistant")
 
